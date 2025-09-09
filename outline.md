@@ -37,3 +37,7 @@ When a row of the table is clicked, it should open up an area inline in the tabl
 - Feature Key
 - Location
 - Qualifiers
+
+The sequence text box should have the following UI elements:
+- An indicator to show the numerical index of the current cursor position
+- An "Add feature here" button, that will create a new feature with start/end indicies matching what is highlighted
